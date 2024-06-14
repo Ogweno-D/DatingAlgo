@@ -1,0 +1,101 @@
+id,gender,height,skin_complexion,body_type,hair_size,education,career,religion,description,interests,match
+1,Female,Average,Dark,Heavy,Long,PhD,Scientist,Hindu,Description 1,Movies:Nature:Cooking:Adventure,1
+2,Female,Average,Chocolate,Average,Long,Phd,Engineer,Christian,Description 2,Others:Adventure:Hiking:Nature:Art,1
+3,Male,Average,Chocolate,Average,Long,PhD,Artist,Hindu,Description 3,Hiking:Music:Adventure,0
+4,Male,Average,Light,Heavy,Long,Master,Engineer,Does not matter,Description 4,Movies:Hiking:Music:Others:Cooking,1
+5,Female,Short,Chocolate,Heavy,Medium,Master,Legal Person,Hindu,Description 5,Music:Dancing:Others,0
+6,Male,Average,Chocolate,Skinny,Short,PhD,Does not matter,Muslim,Description 6,Nature:Cooking,1
+7,Male,Tall,Dark,Average,Short,PhD,Entrepreneur,Christian,Description 7,Nature:Cooking,0
+8,Female,Average,Chocolate,Slim,Short,Degree,Does not matter,Christian,Description 8,Adventure:Art:Nature:Cooking:Music,1
+9,Male,Short,Light,Athletic,Medium,Phd,Scientist,Hindu,Description 9,Cooking,1
+10,Male,Short,Dark,Average,Medium,Diploma,Scientist,Christian,Description 10,Cooking:Dancing,0
+11,Male,Tall,Chocolate,Athletic,Long,Any will do,Does not matter,Hindu,Description 11,Hiking:Others:Art:Movies:Adventure,0
+12,Female,Average,Light,Skinny,Medium,Phd,Sports Person,Christian,Description 12,Adventure:Cooking:Others:Art,0
+13,Female,Average,Chocolate,Heavy,Long,Certificate,Leadership,Muslim,Description 13,Movies:Others:Dancing,1
+14,Female,Average,Light,Hippy,Long,Master,Entrepreneur,Muslim,Description 14,Movies:Adventure,1
+15,Male,Tall,Dark,Slim,Long,Certificate,Legal Person,Muslim,Description 15,Movies:Nature:Cooking:Music,1
+16,Female,Average,Dark,Heavy,Medium,Diploma,Artist,Muslim,Description 16,Others:Nature,1
+17,Female,Short,Dark,Slim,Medium,Master,Sports Person,Does not matter,Description 17,Adventure:Art:Music,0
+18,Female,Average,Chocolate,Average,Medium,Any will do,Sports Person,Christian,Description 18,Nature:Others:Art,1
+19,Male,Average,Dark,Slim,Medium,Diploma,Mathematician,Hindu,Description 19,Hiking:Dancing:Nature:Adventure,1
+20,Female,Tall,Dark,Skinny,Medium,Master,Mathematician,Does not matter,Description 20,Movies:Dancing:Nature:Art,0
+21,Female,Tall,Dark,Athletic,Medium,Phd,Entrepreneur,Hindu,Description 21,Music:Art:Cooking:Dancing:Adventure,1
+22,Female,Average,Chocolate,Hippy,Medium,Master,Does not matter,Buddhist,Description 22,Nature:Cooking:Music,1
+23,Male,Tall,Chocolate,Average,Long,Degree,Sports Person,Does not matter,Description 23,Adventure,1
+24,Female,Tall,Light,Hippy,Medium,Master,Engineer,Hindu,Description 24,Others:Movies:Nature:Cooking,0
+25,Male,Average,Light,Slim,Short,Any will do,Legal Person,Hindu,Description 25,Art:Others:Music:Hiking:Nature,1
+26,Female,Average,Dark,Average,Long,Certificate,Artist,Christian,Description 26,Nature:Music:Cooking,1
+27,Male,Average,Chocolate,Skinny,Long,PhD,Sports Person,Does not matter,Description 27,Dancing:Hiking:Art:Adventure,0
+28,Female,Short,Dark,Athletic,Short,PhD,Mathematician,Buddhist,Description 28,Movies:Hiking,0
+29,Female,Average,Chocolate,Heavy,Long,PhD,Scientist,Does not matter,Description 29,Dancing:Others,1
+30,Female,Tall,Dark,Heavy,Long,Degree,Does not matter,Hindu,Description 30,Hiking:Others,0
+31,Male,Short,Dark,Heavy,Medium,Degree,Scientist,Does not matter,Description 31,Music:Cooking:Art:Others,0
+32,Female,Tall,Dark,Slim,Long,Master,Mathematician,Does not matter,Description 32,Dancing:Music:Hiking,0
+33,Male,Average,Chocolate,Average,Long,Any will do,Does not matter,Christian,Description 33,Cooking:Others:Art:Dancing,0
+34,Male,Short,Light,Heavy,Short,Phd,Does not matter,Hindu,Description 34,Music,1
+35,Female,Short,Dark,Hippy,Medium,Diploma,Sports Person,Muslim,Description 35,Cooking:Hiking:Dancing:Adventure,1
+36,Male,Short,Dark,Skinny,Medium,Master,Leadership,Muslim,Description 36,Adventure:Music,0
+37,Male,Average,Dark,Heavy,Medium,Diploma,Does not matter,Christian,Description 37,Movies:Hiking,1
+38,Female,Short,Light,Skinny,Medium,Certificate,Entrepreneur,Does not matter,Description 38,Art:Nature:Cooking,1
+39,Female,Average,Light,Athletic,Short,Any will do,Sports Person,Christian,Description 39,Music:Cooking,1
+40,Male,Short,Dark,Average,Long,PhD,Mathematician,Christian,Description 40,Nature:Cooking:Hiking:Others,1
+41,Male,Short,Light,Athletic,Long,PhD,Entrepreneur,Buddhist,Description 41,Movies,1
+42,Male,Tall,Light,Slim,Medium,PhD,Mathematician,Does not matter,Description 42,Cooking:Movies,1
+43,Female,Short,Light,Average,Medium,Phd,Leadership,Buddhist,Description 43,Nature:Art:Music,0
+44,Male,Average,Dark,Average,Long,Diploma,Engineer,Hindu,Description 44,Cooking:Music:Movies:Hiking:Dancing,0
+45,Male,Average,Dark,Heavy,Medium,Master,Scientist,Christian,Description 45,Hiking:Others:Nature:Art,1
+46,Male,Tall,Dark,Heavy,Short,Any will do,Does not matter,Buddhist,Description 46,Art:Adventure:Movies,0
+47,Female,Short,Light,Skinny,Medium,Phd,Legal Person,Buddhist,Description 47,Adventure:Hiking,0
+48,Female,Short,Light,Average,Medium,Phd,Leadership,Christian,Description 48,Hiking:Art:Cooking,0
+49,Female,Tall,Dark,Athletic,Short,Master,Mathematician,Hindu,Description 49,Others:Nature:Adventure:Hiking,1
+50,Male,Average,Dark,Heavy,Short,Certificate,Scientist,Christian,Description 50,Nature,1
+51,Female,Short,Chocolate,Slim,Medium,Certificate,Artist,Christian,Description 51,Hiking,0
+52,Male,Short,Chocolate,Slim,Long,Certificate,Artist,Buddhist,Description 52,Art:Others:Adventure:Movies,0
+53,Female,Average,Light,Skinny,Medium,Diploma,Does not matter,Does not matter,Description 53,Nature:Adventure:Hiking:Music:Art,1
+54,Female,Average,Chocolate,Heavy,Short,Any will do,Does not matter,Muslim,Description 54,Hiking:Nature:Adventure:Dancing:Art,1
+55,Male,Short,Chocolate,Average,Medium,Certificate,Entrepreneur,Christian,Description 55,Dancing:Cooking:Hiking:Movies,1
+56,Male,Short,Chocolate,Average,Long,Master,Artist,Hindu,Description 56,Music,1
+57,Female,Tall,Light,Heavy,Long,PhD,Mathematician,Buddhist,Description 57,Hiking:Movies:Music,1
+58,Female,Average,Chocolate,Heavy,Long,Degree,Scientist,Christian,Description 58,Cooking:Hiking,1
+59,Female,Tall,Dark,Average,Long,Phd,Leadership,Hindu,Description 59,Others:Adventure:Movies,1
+60,Male,Tall,Light,Skinny,Medium,Diploma,Legal Person,Muslim,Description 60,Others,1
+61,Female,Short,Dark,Slim,Medium,Any will do,Mathematician,Does not matter,Description 61,Dancing:Hiking:Nature:Adventure:Movies,0
+62,Female,Average,Light,Hippy,Medium,Certificate,Does not matter,Does not matter,Description 62,Hiking:Cooking,0
+63,Female,Short,Dark,Hippy,Long,Certificate,Legal Person,Does not matter,Description 63,Dancing:Nature:Others:Hiking,0
+64,Female,Tall,Light,Athletic,Short,Phd,Legal Person,Muslim,Description 64,Dancing,1
+65,Female,Short,Dark,Hippy,Long,Any will do,Sports Person,Does not matter,Description 65,Cooking:Adventure:Hiking:Movies:Others,1
+66,Female,Short,Chocolate,Hippy,Medium,Degree,Leadership,Does not matter,Description 66,Movies:Dancing:Nature,0
+67,Female,Short,Light,Hippy,Medium,Any will do,Entrepreneur,Buddhist,Description 67,Music,1
+68,Male,Short,Dark,Skinny,Long,Phd,Artist,Buddhist,Description 68,Cooking:Adventure,0
+69,Male,Average,Dark,Average,Short,Certificate,Scientist,Does not matter,Description 69,Nature:Hiking:Cooking:Adventure:Dancing,1
+70,Male,Short,Chocolate,Athletic,Short,Diploma,Does not matter,Buddhist,Description 70,Dancing:Music,0
+71,Male,Tall,Light,Skinny,Short,PhD,Does not matter,Hindu,Description 71,Cooking:Dancing:Others,0
+72,Female,Short,Light,Skinny,Medium,Phd,Sports Person,Hindu,Description 72,Nature,0
+73,Male,Average,Chocolate,Athletic,Long,Phd,Legal Person,Christian,Description 73,Cooking:Dancing:Hiking,1
+74,Male,Tall,Light,Slim,Short,Degree,Leadership,Hindu,Description 74,Others:Adventure:Cooking:Music:Nature,0
+75,Male,Tall,Light,Skinny,Long,Certificate,Artist,Hindu,Description 75,Movies:Hiking,0
+76,Male,Short,Dark,Skinny,Medium,Diploma,Entrepreneur,Hindu,Description 76,Movies:Hiking,1
+77,Male,Tall,Chocolate,Average,Short,Diploma,Engineer,Muslim,Description 77,Dancing:Adventure:Nature:Movies:Art,0
+78,Female,Tall,Chocolate,Slim,Long,Diploma,Does not matter,Christian,Description 78,Hiking:Adventure:Dancing:Nature,0
+79,Male,Short,Chocolate,Heavy,Long,PhD,Artist,Muslim,Description 79,Dancing:Cooking:Nature:Movies:Others,1
+80,Male,Tall,Chocolate,Skinny,Short,Degree,Mathematician,Christian,Description 80,Nature:Art:Hiking,1
+81,Female,Average,Dark,Hippy,Short,Any will do,Mathematician,Buddhist,Description 81,Art:Nature:Dancing,1
+82,Female,Tall,Dark,Skinny,Short,Certificate,Entrepreneur,Christian,Description 82,Others:Adventure:Nature:Cooking:Hiking,0
+83,Female,Short,Chocolate,Athletic,Medium,Certificate,Does not matter,Hindu,Description 83,Dancing:Adventure:Others:Movies,1
+84,Male,Tall,Chocolate,Skinny,Long,Degree,Legal Person,Muslim,Description 84,Dancing:Cooking:Art:Hiking,1
+85,Male,Tall,Dark,Heavy,Medium,Any will do,Scientist,Muslim,Description 85,Movies:Others:Dancing:Adventure:Hiking,0
+86,Male,Average,Chocolate,Slim,Long,PhD,Entrepreneur,Buddhist,Description 86,Adventure:Music:Movies:Others,0
+87,Female,Average,Dark,Skinny,Medium,Any will do,Entrepreneur,Christian,Description 87,Art,0
+88,Male,Short,Dark,Skinny,Short,Phd,Artist,Does not matter,Description 88,Nature:Hiking:Adventure,0
+89,Female,Tall,Chocolate,Average,Short,PhD,Leadership,Christian,Description 89,Dancing:Music:Art:Cooking,1
+90,Male,Average,Dark,Skinny,Medium,PhD,Entrepreneur,Christian,Description 90,Movies,0
+91,Male,Tall,Light,Skinny,Medium,Diploma,Scientist,Christian,Description 91,Art:Hiking:Music:Movies,1
+92,Female,Short,Light,Slim,Medium,Master,Mathematician,Christian,Description 92,Adventure:Cooking:Others:Dancing:Movies,0
+93,Female,Average,Chocolate,Average,Long,Diploma,Artist,Buddhist,Description 93,Movies:Adventure,0
+94,Female,Tall,Chocolate,Heavy,Long,Degree,Legal Person,Buddhist,Description 94,Nature:Hiking:Movies:Cooking,1
+95,Male,Average,Dark,Slim,Short,PhD,Scientist,Muslim,Description 95,Art:Dancing:Others,0
+96,Female,Short,Chocolate,Skinny,Long,Diploma,Artist,Christian,Description 96,Art:Others:Cooking:Hiking:Nature,1
+97,Male,Short,Light,Skinny,Long,Master,Entrepreneur,Buddhist,Description 97,Dancing:Hiking:Others,0
+98,Male,Tall,Chocolate,Slim,Medium,Phd,Does not matter,Muslim,Description 98,Adventure:Movies:Dancing:Music,1
+99,Male,Tall,Dark,Heavy,Long,Any will do,Sports Person,Hindu,Description 99,Movies:Others:Hiking,1
+100,Female,Tall,Dark,Average,Short,Diploma,Engineer,Hindu,Description 100,Hiking:Music:Movies,1
